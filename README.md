@@ -1,5 +1,3 @@
-# zabbix-observability-kit
-Toolkit práctico para desplegar Zabbix (server + agent2), plantillas, alertas, dashboards, y ejemplos listos para producción (Docker/Compose). Incluye guías paso a paso.
 # Zabbix Observability Kit
 
 Toolkit práctico para desplegar **Zabbix** (server + agent2) en entornos Linux.
