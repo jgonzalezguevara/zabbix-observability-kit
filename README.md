@@ -65,11 +65,11 @@ Para poner en marcha Zabbix en tu máquina local, sigue estos pasos:
    Contraseña: zabbix
 
 
-Parar Zabbix
+# Cómo parar Zabbix
 
    Para detener Zabbix y eliminar los contenedores, puedes usar:
 
    docker-compose down
 
 
-Esto detendrá todos los contenedores sin eliminar los datos.
+   Esto detendrá todos los contenedores sin eliminar los datos.
