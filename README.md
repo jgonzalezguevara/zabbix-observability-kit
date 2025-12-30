@@ -6,7 +6,7 @@ usando **Docker Compose**.
 
 > Este repositorio acompaña al libro  
 > **Curso Zabbix – Guía práctica de instalación, configuración y seguridad**
-> (Amazon)
+> ([Amazon](https://www.amazon.es/dp/B0G4R5QYK6))
 
 ---
 
