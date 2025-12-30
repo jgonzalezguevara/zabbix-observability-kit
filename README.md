@@ -47,3 +47,29 @@ Para poner en marcha Zabbix en tu máquina local, sigue estos pasos:
    ```bash
    git clone https://github.com/tu-usuario/zabbix-observability-kit.git
    cd zabbix-observability-kit
+
+2. Levantar los contenedores de Zabbix usando Docker Compose:
+
+   docker-compose up -d
+
+
+3. Acceder a Zabbix: Una vez que los contenedores estén en marcha, abre tu navegador y ve a:
+
+   http://localhost:8080
+
+
+4. Iniciar sesión en Zabbix con las siguientes credenciales:
+
+   Usuario: Admin
+
+   Contraseña: zabbix
+
+
+Parar Zabbix
+
+   Para detener Zabbix y eliminar los contenedores, puedes usar:
+
+   docker-compose down
+
+
+Esto detendrá todos los contenedores sin eliminar los datos.
