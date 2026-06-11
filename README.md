@@ -73,3 +73,17 @@ Para poner en marcha Zabbix en tu máquina local, sigue estos pasos:
 
 
    Esto detendrá todos los contenedores sin eliminar los datos.
+
+## Más recursos
+
+📚 Biblioteca Linux y DevOps  
+https://desdeelservidor.es/biblioteca-linux-devops.html
+
+👨‍💻 Sobre el autor  
+https://desdeelservidor.es/autor-jose-gonzalez.html
+
+🎓 Formación Linux y Troubleshooting  
+https://desdeelservidor.es/formacion.html
+
+📰 Newsletter Linux y Sistemas  
+https://desdeelservidor.es/newsletter.html
